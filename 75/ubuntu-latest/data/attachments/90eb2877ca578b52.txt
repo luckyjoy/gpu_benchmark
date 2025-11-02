@@ -1,0 +1,1 @@
+[INFO] Saved telemetry for module test_nvidia_gpu_accelerator (1 samples)

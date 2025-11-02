@@ -1,0 +1,2 @@
+[INFO] Started telemetry for test_gpu_mixed_precision
+[INFO] Saved telemetry for module test_gpu_mixed_precision (1 samples)

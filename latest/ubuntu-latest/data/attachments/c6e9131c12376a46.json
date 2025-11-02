@@ -1,0 +1,62 @@
+[
+  {
+    "cpu_util": 0.0,
+    "gpu_util": 0.0,
+    "gpu_mem_util": 0.0,
+    "step": 0
+  },
+  {
+    "cpu_util": 0.8,
+    "gpu_util": 0.0,
+    "gpu_mem_util": 0.0,
+    "step": 1
+  },
+  {
+    "cpu_util": 0.0,
+    "gpu_util": 0.0,
+    "gpu_mem_util": 0.0,
+    "step": 2
+  },
+  {
+    "cpu_util": 0.0,
+    "gpu_util": 0.0,
+    "gpu_mem_util": 0.0,
+    "step": 3
+  },
+  {
+    "cpu_util": 0.0,
+    "gpu_util": 0.0,
+    "gpu_mem_util": 0.0,
+    "step": 4
+  },
+  {
+    "cpu_util": 0.0,
+    "gpu_util": 0.0,
+    "gpu_mem_util": 0.0,
+    "step": 5
+  },
+  {
+    "cpu_util": 0.8,
+    "gpu_util": 0.0,
+    "gpu_mem_util": 0.0,
+    "step": 6
+  },
+  {
+    "cpu_util": 0.8,
+    "gpu_util": 0.0,
+    "gpu_mem_util": 0.0,
+    "step": 7
+  },
+  {
+    "cpu_util": 0.0,
+    "gpu_util": 0.0,
+    "gpu_mem_util": 0.0,
+    "step": 8
+  },
+  {
+    "cpu_util": 0.0,
+    "gpu_util": 0.0,
+    "gpu_mem_util": 0.0,
+    "step": 9
+  }
+]

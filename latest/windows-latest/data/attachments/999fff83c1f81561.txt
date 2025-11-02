@@ -1,0 +1,2 @@
+[INFO] Started telemetry for test_parallel_training
+[INFO] Saved telemetry for module test_parallel_training (1 samples)

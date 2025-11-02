@@ -1,0 +1,62 @@
+[
+  {
+    "time": 1761233298.87546,
+    "time_iso": "2025-10-23T15:28:18.875460Z",
+    "cpu_percent": 4.3,
+    "ram_percent": 9.0,
+    "gpu_vendor": "None",
+    "gpu_util_percent": null,
+    "gpu_mem_used_gb": null,
+    "gpu_mem_total_gb": null
+  },
+  {
+    "time": 1761233299.9344826,
+    "time_iso": "2025-10-23T15:28:19.934483Z",
+    "cpu_percent": 3.1,
+    "ram_percent": 9.0,
+    "gpu_vendor": "None",
+    "gpu_util_percent": null,
+    "gpu_mem_used_gb": null,
+    "gpu_mem_total_gb": null
+  },
+  {
+    "time": 1761233300.9347856,
+    "time_iso": "2025-10-23T15:28:20.934786Z",
+    "cpu_percent": 8.2,
+    "ram_percent": 8.9,
+    "gpu_vendor": "None",
+    "gpu_util_percent": null,
+    "gpu_mem_used_gb": null,
+    "gpu_mem_total_gb": null
+  },
+  {
+    "time": 1761233301.9351,
+    "time_iso": "2025-10-23T15:28:21.935100Z",
+    "cpu_percent": 3.0,
+    "ram_percent": 8.9,
+    "gpu_vendor": "None",
+    "gpu_util_percent": null,
+    "gpu_mem_used_gb": null,
+    "gpu_mem_total_gb": null
+  },
+  {
+    "time": 1761233302.9354498,
+    "time_iso": "2025-10-23T15:28:22.935450Z",
+    "cpu_percent": 10.7,
+    "ram_percent": 8.9,
+    "gpu_vendor": "None",
+    "gpu_util_percent": null,
+    "gpu_mem_used_gb": null,
+    "gpu_mem_total_gb": null
+  },
+  {
+    "time": 1761233303.935754,
+    "time_iso": "2025-10-23T15:28:23.935754Z",
+    "cpu_percent": 5.7,
+    "ram_percent": 8.8,
+    "gpu_vendor": "None",
+    "gpu_util_percent": null,
+    "gpu_mem_used_gb": null,
+    "gpu_mem_total_gb": null
+  }
+]

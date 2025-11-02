@@ -1,0 +1,2 @@
+[INFO] Started telemetry for test_gpu_compute
+[INFO] Saved telemetry for module test_gpu_compute (1 samples)

@@ -1,0 +1,82 @@
+[
+  {
+    "time": 1761233246.0117645,
+    "time_iso": "2025-10-23T15:27:26.011765Z",
+    "cpu_percent": 0.0,
+    "ram_percent": 17.8,
+    "gpu_vendor": "None",
+    "gpu_util_percent": null,
+    "gpu_mem_used_gb": null,
+    "gpu_mem_total_gb": null
+  },
+  {
+    "time": 1761233247.0187736,
+    "time_iso": "2025-10-23T15:27:27.018774Z",
+    "cpu_percent": 29.5,
+    "ram_percent": 18.7,
+    "gpu_vendor": "None",
+    "gpu_util_percent": null,
+    "gpu_mem_used_gb": null,
+    "gpu_mem_total_gb": null
+  },
+  {
+    "time": 1761233248.0193012,
+    "time_iso": "2025-10-23T15:27:28.019301Z",
+    "cpu_percent": 52.5,
+    "ram_percent": 19.1,
+    "gpu_vendor": "None",
+    "gpu_util_percent": null,
+    "gpu_mem_used_gb": null,
+    "gpu_mem_total_gb": null
+  },
+  {
+    "time": 1761233249.0198116,
+    "time_iso": "2025-10-23T15:27:29.019812Z",
+    "cpu_percent": 54.9,
+    "ram_percent": 19.1,
+    "gpu_vendor": "None",
+    "gpu_util_percent": null,
+    "gpu_mem_used_gb": null,
+    "gpu_mem_total_gb": null
+  },
+  {
+    "time": 1761233250.0207586,
+    "time_iso": "2025-10-23T15:27:30.020759Z",
+    "cpu_percent": 57.1,
+    "ram_percent": 19.1,
+    "gpu_vendor": "None",
+    "gpu_util_percent": null,
+    "gpu_mem_used_gb": null,
+    "gpu_mem_total_gb": null
+  },
+  {
+    "time": 1761233251.0213952,
+    "time_iso": "2025-10-23T15:27:31.021395Z",
+    "cpu_percent": 55.4,
+    "ram_percent": 19.1,
+    "gpu_vendor": "None",
+    "gpu_util_percent": null,
+    "gpu_mem_used_gb": null,
+    "gpu_mem_total_gb": null
+  },
+  {
+    "time": 1761233252.0220702,
+    "time_iso": "2025-10-23T15:27:32.022070Z",
+    "cpu_percent": 58.4,
+    "ram_percent": 19.1,
+    "gpu_vendor": "None",
+    "gpu_util_percent": null,
+    "gpu_mem_used_gb": null,
+    "gpu_mem_total_gb": null
+  },
+  {
+    "time": 1761233253.023283,
+    "time_iso": "2025-10-23T15:27:33.023283Z",
+    "cpu_percent": 57.4,
+    "ram_percent": 19.1,
+    "gpu_vendor": "None",
+    "gpu_util_percent": null,
+    "gpu_mem_used_gb": null,
+    "gpu_mem_total_gb": null
+  }
+]

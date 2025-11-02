@@ -1,0 +1,2 @@
+[INFO] Telemetry thread finished (7 samples).
+[INFO] Saved telemetry data to allure-results\manual\telemetry_test_gpu_memory_allocation.json

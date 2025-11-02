@@ -1,0 +1,2 @@
+Avg Latency: 0.57 ms
+P99 Latency: 5.28 ms

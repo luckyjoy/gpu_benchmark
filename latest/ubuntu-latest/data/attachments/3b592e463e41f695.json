@@ -1,0 +1,12 @@
+[
+  {
+    "time": 1761233256.867876,
+    "time_iso": "2025-10-23T15:27:36.867876Z",
+    "cpu_percent": 5.7,
+    "ram_percent": 8.0,
+    "gpu_vendor": "None",
+    "gpu_util_percent": null,
+    "gpu_mem_used_gb": null,
+    "gpu_mem_total_gb": null
+  }
+]

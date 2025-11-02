@@ -1,0 +1,3 @@
+[INFO] Telemetry thread finished for test_parallel_training (2 samples collected).
+[INFO] Saved telemetry data to allure-results/manual/telemetry_test_parallel_training.json
+[INFO] Saved telemetry plot to allure-results/manual/telemetry_test_parallel_training.png. This PNG should be attached to the Allure report.

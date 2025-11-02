@@ -1,0 +1,9 @@
+{
+  "test_name": "inference_load_batch_512",
+  "gpu_name": "N/A (CPU only)",
+  "avg_util": 0.0,
+  "avg_mem": 0.0,
+  "avg_cpu_util": 100.0,
+  "fps": 150278.37,
+  "backend": "cpu"
+}

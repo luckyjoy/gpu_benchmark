@@ -1,0 +1,4 @@
+[Sort] Mean: 2096651.125000s
+[INFO] Telemetry thread finished for test_cpu_reference_sort (7 samples collected).
+[INFO] Saved telemetry data to allure-results/manual/telemetry_test_cpu_reference_sort.json
+[INFO] Saved telemetry plot to allure-results/manual/telemetry_test_cpu_reference_sort.png. This PNG should be attached to the Allure report.

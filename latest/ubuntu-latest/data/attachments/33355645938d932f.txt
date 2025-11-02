@@ -1,0 +1,4 @@
+[Matmul] Mean: 2147517440.000000s, GFLOPS: 0.00
+[INFO] Telemetry thread finished for test_cpu_reference_matmul (2 samples collected).
+[INFO] Saved telemetry data to allure-results/manual/telemetry_test_cpu_reference_matmul.json
+[INFO] Saved telemetry plot to allure-results/manual/telemetry_test_cpu_reference_matmul.png. This PNG should be attached to the Allure report.

@@ -1,0 +1,1 @@
+Duration (Mean): 2097214.7500s for 4194304 elements

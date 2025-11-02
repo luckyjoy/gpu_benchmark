@@ -1,0 +1,142 @@
+[
+  {
+    "cpu_util": 0.0,
+    "gpu_util": 0.0,
+    "gpu_mem_util": 0.0,
+    "thread": 0,
+    "step": 0
+  },
+  {
+    "cpu_util": 4.9,
+    "gpu_util": 0.0,
+    "gpu_mem_util": 0.0,
+    "thread": 0,
+    "step": 1
+  },
+  {
+    "cpu_util": 4.8,
+    "gpu_util": 0.0,
+    "gpu_mem_util": 0.0,
+    "thread": 0,
+    "step": 2
+  },
+  {
+    "cpu_util": 4.8,
+    "gpu_util": 0.0,
+    "gpu_mem_util": 0.0,
+    "thread": 0,
+    "step": 3
+  },
+  {
+    "cpu_util": 4.7,
+    "gpu_util": 0.0,
+    "gpu_mem_util": 0.0,
+    "thread": 0,
+    "step": 4
+  },
+  {
+    "cpu_util": 0.0,
+    "gpu_util": 0.0,
+    "gpu_mem_util": 0.0,
+    "thread": 1,
+    "step": 5
+  },
+  {
+    "cpu_util": 4.8,
+    "gpu_util": 0.0,
+    "gpu_mem_util": 0.0,
+    "thread": 1,
+    "step": 6
+  },
+  {
+    "cpu_util": 4.8,
+    "gpu_util": 0.0,
+    "gpu_mem_util": 0.0,
+    "thread": 1,
+    "step": 7
+  },
+  {
+    "cpu_util": 4.9,
+    "gpu_util": 0.0,
+    "gpu_mem_util": 0.0,
+    "thread": 1,
+    "step": 8
+  },
+  {
+    "cpu_util": 4.7,
+    "gpu_util": 0.0,
+    "gpu_mem_util": 0.0,
+    "thread": 1,
+    "step": 9
+  },
+  {
+    "cpu_util": 0.0,
+    "gpu_util": 0.0,
+    "gpu_mem_util": 0.0,
+    "thread": 2,
+    "step": 10
+  },
+  {
+    "cpu_util": 2.4,
+    "gpu_util": 0.0,
+    "gpu_mem_util": 0.0,
+    "thread": 2,
+    "step": 11
+  },
+  {
+    "cpu_util": 7.1,
+    "gpu_util": 0.0,
+    "gpu_mem_util": 0.0,
+    "thread": 2,
+    "step": 12
+  },
+  {
+    "cpu_util": 4.8,
+    "gpu_util": 0.0,
+    "gpu_mem_util": 0.0,
+    "thread": 2,
+    "step": 13
+  },
+  {
+    "cpu_util": 2.4,
+    "gpu_util": 0.0,
+    "gpu_mem_util": 0.0,
+    "thread": 2,
+    "step": 14
+  },
+  {
+    "cpu_util": 0.0,
+    "gpu_util": 0.0,
+    "gpu_mem_util": 0.0,
+    "thread": 3,
+    "step": 15
+  },
+  {
+    "cpu_util": 2.4,
+    "gpu_util": 0.0,
+    "gpu_mem_util": 0.0,
+    "thread": 3,
+    "step": 16
+  },
+  {
+    "cpu_util": 7.0,
+    "gpu_util": 0.0,
+    "gpu_mem_util": 0.0,
+    "thread": 3,
+    "step": 17
+  },
+  {
+    "cpu_util": 4.8,
+    "gpu_util": 0.0,
+    "gpu_mem_util": 0.0,
+    "thread": 3,
+    "step": 18
+  },
+  {
+    "cpu_util": 2.4,
+    "gpu_util": 0.0,
+    "gpu_mem_util": 0.0,
+    "thread": 3,
+    "step": 19
+  }
+]

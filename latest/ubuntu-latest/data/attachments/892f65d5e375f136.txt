@@ -1,0 +1,3 @@
+[INFO] Telemetry thread finished for test_inference_load[512] (4 samples collected).
+[INFO] Saved telemetry data to allure-results/manual/telemetry_test_inference_load[512].json
+[INFO] Saved telemetry plot to allure-results/manual/telemetry_test_inference_load[512].png. This PNG should be attached to the Allure report.

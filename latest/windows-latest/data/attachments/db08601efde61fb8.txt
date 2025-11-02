@@ -1,0 +1,3 @@
+[INFO] Telemetry thread finished for test_tensorrt_inference_speedup (1 samples collected).
+[INFO] Saved telemetry data to allure-results\manual\telemetry_test_tensorrt_inference_speedup.json
+[INFO] Saved telemetry plot to allure-results\manual\telemetry_test_tensorrt_inference_speedup.png. This PNG should be attached to the Allure report.

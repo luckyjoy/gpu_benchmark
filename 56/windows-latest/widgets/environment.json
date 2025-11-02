@@ -1,0 +1,1 @@
+[{"values":["Windows (10)"],"name":"OS"},{"values":["3.11.9"],"name":"Python.Version"},{"values":["AMD64 Family 25 Model 1 Stepping 1, AuthenticAMD"],"name":"CPU"},{"values":["False"],"name":"GPU.Available"},{"values":["CPU"],"name":"GPU.Vendor"},{"values":["CPU"],"name":"GPU.Name"},{"values":["cpu"],"name":"Torch.Device"}]

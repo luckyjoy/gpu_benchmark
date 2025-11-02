@@ -1,0 +1,2 @@
+[INFO] Started telemetry for test_cpu_reference
+[INFO] Saved telemetry for module test_cpu_reference (12 samples)

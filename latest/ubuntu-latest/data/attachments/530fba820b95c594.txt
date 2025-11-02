@@ -1,0 +1,1 @@
+[INFO] Started telemetry for test_amd_gpu_accelerator

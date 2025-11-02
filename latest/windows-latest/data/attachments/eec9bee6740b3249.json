@@ -1,0 +1,9 @@
+{
+  "test_name": "gpu_stress",
+  "gpu_name": "N/A (CPU only)",
+  "avg_util": 0.0,
+  "avg_mem": 0.0,
+  "avg_cpu_util": 62.46,
+  "fps": 1.12,
+  "backend": "cpu"
+}

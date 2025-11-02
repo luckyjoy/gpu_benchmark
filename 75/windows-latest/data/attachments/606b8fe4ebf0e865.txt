@@ -1,0 +1,2 @@
+[INFO] Started telemetry for test_idle_baseline
+[INFO] Saved telemetry for module test_idle_baseline (4 samples)

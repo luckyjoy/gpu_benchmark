@@ -1,0 +1,2 @@
+[INFO] Telemetry thread finished (5 samples).
+[INFO] Saved telemetry data to allure-results\manual\telemetry_test_inference_load[1024].json

@@ -1,0 +1,2 @@
+[INFO] Started telemetry for test_gpu_stress
+[INFO] Saved telemetry for module test_gpu_stress (25 samples)

@@ -1,0 +1,2 @@
+[INFO] Started telemetry for test_gpu_convnet
+[INFO] Saved telemetry for module test_gpu_convnet (22 samples)

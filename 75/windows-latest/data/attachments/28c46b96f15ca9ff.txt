@@ -1,0 +1,1 @@
+[INFO] Started telemetry for test_nvidia_real_gpu

@@ -1,0 +1,4 @@
+[Conv2D] Mean: 4814839296.000000s
+[INFO] Telemetry thread finished for test_cpu_reference_convolution (4 samples collected).
+[INFO] Saved telemetry data to allure-results\manual\telemetry_test_cpu_reference_convolution.json
+[INFO] Saved telemetry plot to allure-results\manual\telemetry_test_cpu_reference_convolution.png. This PNG should be attached to the Allure report.

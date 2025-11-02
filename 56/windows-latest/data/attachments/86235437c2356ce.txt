@@ -1,0 +1,3 @@
+Cold: 0.012s
+Warm: 0.014s
+Speedup: 0.89x

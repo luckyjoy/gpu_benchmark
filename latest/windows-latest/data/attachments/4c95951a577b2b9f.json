@@ -1,0 +1,32 @@
+[
+  {
+    "timestamp": 0.02,
+    "gpu_util": 0,
+    "mem_util": 0,
+    "cpu_util": 28.8
+  },
+  {
+    "timestamp": 0.22,
+    "gpu_util": 0,
+    "mem_util": 0,
+    "cpu_util": 63.6
+  },
+  {
+    "timestamp": 0.42,
+    "gpu_util": 0,
+    "mem_util": 0,
+    "cpu_util": 55.8
+  },
+  {
+    "timestamp": 0.62,
+    "gpu_util": 0,
+    "mem_util": 0,
+    "cpu_util": 51.9
+  },
+  {
+    "timestamp": 0.82,
+    "gpu_util": 0,
+    "mem_util": 0,
+    "cpu_util": 20.8
+  }
+]

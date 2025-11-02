@@ -1,0 +1,3 @@
+[INFO] Telemetry thread finished for test_cuml_linear_regression (1 samples collected).
+[INFO] Saved telemetry data to allure-results/manual/telemetry_test_cuml_linear_regression.json
+[INFO] Saved telemetry plot to allure-results/manual/telemetry_test_cuml_linear_regression.png. This PNG should be attached to the Allure report.

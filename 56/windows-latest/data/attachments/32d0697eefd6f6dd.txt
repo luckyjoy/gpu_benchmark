@@ -1,0 +1,2 @@
+Write Speed: 51.68 MB/s
+Read Speed: 3916.10 MB/s

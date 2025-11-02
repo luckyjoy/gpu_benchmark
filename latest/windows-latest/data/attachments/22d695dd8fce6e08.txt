@@ -1,0 +1,2 @@
+[INFO] Telemetry thread finished (15 samples).
+[INFO] Saved telemetry data to allure-results\manual\telemetry_test_cpu_reference_operations.json

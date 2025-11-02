@@ -1,0 +1,2 @@
+[INFO] Telemetry thread finished (3 samples).
+[INFO] Saved telemetry data to allure-results\manual\telemetry_test_parallel_training.json

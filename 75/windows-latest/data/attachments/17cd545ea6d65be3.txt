@@ -1,0 +1,1 @@
+[INFO] Saved telemetry for module test_multi_gpu (1 samples)

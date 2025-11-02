@@ -1,0 +1,2 @@
+[INFO] Telemetry thread finished (10 samples).
+[INFO] Saved telemetry data to allure-results\manual\telemetry_test_matrix_multiplication.json

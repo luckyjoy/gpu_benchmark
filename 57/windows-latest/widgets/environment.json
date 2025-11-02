@@ -1,0 +1,1 @@
+[{"values":["Windows (10)"],"name":"OS"},{"values":["3.11.9"],"name":"Python.Version"},{"values":["Intel64 Family 6 Model 106 Stepping 6, GenuineIntel"],"name":"CPU"},{"values":["False"],"name":"GPU.Available"},{"values":["CPU"],"name":"GPU.Vendor"},{"values":["CPU"],"name":"GPU.Name"},{"values":["cpu"],"name":"Torch.Device"}]

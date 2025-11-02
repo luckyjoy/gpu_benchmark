@@ -1,0 +1,452 @@
+[
+  {
+    "time": 1761233305.0567799,
+    "time_iso": "2025-10-23T15:28:25.056780Z",
+    "cpu_percent": 9.4,
+    "ram_percent": 8.7,
+    "gpu_vendor": "None",
+    "gpu_util_percent": null,
+    "gpu_mem_used_gb": null,
+    "gpu_mem_total_gb": null
+  },
+  {
+    "time": 1761233306.1138835,
+    "time_iso": "2025-10-23T15:28:26.113883Z",
+    "cpu_percent": 25.5,
+    "ram_percent": 9.5,
+    "gpu_vendor": "None",
+    "gpu_util_percent": null,
+    "gpu_mem_used_gb": null,
+    "gpu_mem_total_gb": null
+  },
+  {
+    "time": 1761233307.114288,
+    "time_iso": "2025-10-23T15:28:27.114288Z",
+    "cpu_percent": 25.1,
+    "ram_percent": 9.9,
+    "gpu_vendor": "None",
+    "gpu_util_percent": null,
+    "gpu_mem_used_gb": null,
+    "gpu_mem_total_gb": null
+  },
+  {
+    "time": 1761233308.1146996,
+    "time_iso": "2025-10-23T15:28:28.114700Z",
+    "cpu_percent": 25.2,
+    "ram_percent": 9.8,
+    "gpu_vendor": "None",
+    "gpu_util_percent": null,
+    "gpu_mem_used_gb": null,
+    "gpu_mem_total_gb": null
+  },
+  {
+    "time": 1761233309.1151059,
+    "time_iso": "2025-10-23T15:28:29.115106Z",
+    "cpu_percent": 25.2,
+    "ram_percent": 9.8,
+    "gpu_vendor": "None",
+    "gpu_util_percent": null,
+    "gpu_mem_used_gb": null,
+    "gpu_mem_total_gb": null
+  },
+  {
+    "time": 1761233310.1155477,
+    "time_iso": "2025-10-23T15:28:30.115548Z",
+    "cpu_percent": 24.9,
+    "ram_percent": 9.7,
+    "gpu_vendor": "None",
+    "gpu_util_percent": null,
+    "gpu_mem_used_gb": null,
+    "gpu_mem_total_gb": null
+  },
+  {
+    "time": 1761233311.1159434,
+    "time_iso": "2025-10-23T15:28:31.115943Z",
+    "cpu_percent": 25.2,
+    "ram_percent": 9.6,
+    "gpu_vendor": "None",
+    "gpu_util_percent": null,
+    "gpu_mem_used_gb": null,
+    "gpu_mem_total_gb": null
+  },
+  {
+    "time": 1761233312.1163502,
+    "time_iso": "2025-10-23T15:28:32.116350Z",
+    "cpu_percent": 25.3,
+    "ram_percent": 9.6,
+    "gpu_vendor": "None",
+    "gpu_util_percent": null,
+    "gpu_mem_used_gb": null,
+    "gpu_mem_total_gb": null
+  },
+  {
+    "time": 1761233313.1167133,
+    "time_iso": "2025-10-23T15:28:33.116713Z",
+    "cpu_percent": 25.2,
+    "ram_percent": 9.6,
+    "gpu_vendor": "None",
+    "gpu_util_percent": null,
+    "gpu_mem_used_gb": null,
+    "gpu_mem_total_gb": null
+  },
+  {
+    "time": 1761233314.1171024,
+    "time_iso": "2025-10-23T15:28:34.117102Z",
+    "cpu_percent": 24.8,
+    "ram_percent": 9.5,
+    "gpu_vendor": "None",
+    "gpu_util_percent": null,
+    "gpu_mem_used_gb": null,
+    "gpu_mem_total_gb": null
+  },
+  {
+    "time": 1761233315.1175122,
+    "time_iso": "2025-10-23T15:28:35.117512Z",
+    "cpu_percent": 25.4,
+    "ram_percent": 9.5,
+    "gpu_vendor": "None",
+    "gpu_util_percent": null,
+    "gpu_mem_used_gb": null,
+    "gpu_mem_total_gb": null
+  },
+  {
+    "time": 1761233316.1179028,
+    "time_iso": "2025-10-23T15:28:36.117903Z",
+    "cpu_percent": 25.1,
+    "ram_percent": 9.4,
+    "gpu_vendor": "None",
+    "gpu_util_percent": null,
+    "gpu_mem_used_gb": null,
+    "gpu_mem_total_gb": null
+  },
+  {
+    "time": 1761233317.1183167,
+    "time_iso": "2025-10-23T15:28:37.118317Z",
+    "cpu_percent": 25.2,
+    "ram_percent": 9.4,
+    "gpu_vendor": "None",
+    "gpu_util_percent": null,
+    "gpu_mem_used_gb": null,
+    "gpu_mem_total_gb": null
+  },
+  {
+    "time": 1761233318.1187294,
+    "time_iso": "2025-10-23T15:28:38.118729Z",
+    "cpu_percent": 25.1,
+    "ram_percent": 9.4,
+    "gpu_vendor": "None",
+    "gpu_util_percent": null,
+    "gpu_mem_used_gb": null,
+    "gpu_mem_total_gb": null
+  },
+  {
+    "time": 1761233319.119133,
+    "time_iso": "2025-10-23T15:28:39.119133Z",
+    "cpu_percent": 26.6,
+    "ram_percent": 9.3,
+    "gpu_vendor": "None",
+    "gpu_util_percent": null,
+    "gpu_mem_used_gb": null,
+    "gpu_mem_total_gb": null
+  },
+  {
+    "time": 1761233320.1195762,
+    "time_iso": "2025-10-23T15:28:40.119576Z",
+    "cpu_percent": 25.2,
+    "ram_percent": 9.3,
+    "gpu_vendor": "None",
+    "gpu_util_percent": null,
+    "gpu_mem_used_gb": null,
+    "gpu_mem_total_gb": null
+  },
+  {
+    "time": 1761233321.1199677,
+    "time_iso": "2025-10-23T15:28:41.119968Z",
+    "cpu_percent": 25.3,
+    "ram_percent": 9.3,
+    "gpu_vendor": "None",
+    "gpu_util_percent": null,
+    "gpu_mem_used_gb": null,
+    "gpu_mem_total_gb": null
+  },
+  {
+    "time": 1761233322.1204104,
+    "time_iso": "2025-10-23T15:28:42.120410Z",
+    "cpu_percent": 25.0,
+    "ram_percent": 9.2,
+    "gpu_vendor": "None",
+    "gpu_util_percent": null,
+    "gpu_mem_used_gb": null,
+    "gpu_mem_total_gb": null
+  },
+  {
+    "time": 1761233323.1208067,
+    "time_iso": "2025-10-23T15:28:43.120807Z",
+    "cpu_percent": 25.2,
+    "ram_percent": 9.1,
+    "gpu_vendor": "None",
+    "gpu_util_percent": null,
+    "gpu_mem_used_gb": null,
+    "gpu_mem_total_gb": null
+  },
+  {
+    "time": 1761233324.1212387,
+    "time_iso": "2025-10-23T15:28:44.121239Z",
+    "cpu_percent": 25.1,
+    "ram_percent": 9.1,
+    "gpu_vendor": "None",
+    "gpu_util_percent": null,
+    "gpu_mem_used_gb": null,
+    "gpu_mem_total_gb": null
+  },
+  {
+    "time": 1761233325.1216273,
+    "time_iso": "2025-10-23T15:28:45.121627Z",
+    "cpu_percent": 25.2,
+    "ram_percent": 9.0,
+    "gpu_vendor": "None",
+    "gpu_util_percent": null,
+    "gpu_mem_used_gb": null,
+    "gpu_mem_total_gb": null
+  },
+  {
+    "time": 1761233326.1219852,
+    "time_iso": "2025-10-23T15:28:46.121985Z",
+    "cpu_percent": 25.4,
+    "ram_percent": 9.0,
+    "gpu_vendor": "None",
+    "gpu_util_percent": null,
+    "gpu_mem_used_gb": null,
+    "gpu_mem_total_gb": null
+  },
+  {
+    "time": 1761233327.1224306,
+    "time_iso": "2025-10-23T15:28:47.122431Z",
+    "cpu_percent": 25.3,
+    "ram_percent": 9.0,
+    "gpu_vendor": "None",
+    "gpu_util_percent": null,
+    "gpu_mem_used_gb": null,
+    "gpu_mem_total_gb": null
+  },
+  {
+    "time": 1761233328.122834,
+    "time_iso": "2025-10-23T15:28:48.122834Z",
+    "cpu_percent": 25.2,
+    "ram_percent": 9.0,
+    "gpu_vendor": "None",
+    "gpu_util_percent": null,
+    "gpu_mem_used_gb": null,
+    "gpu_mem_total_gb": null
+  },
+  {
+    "time": 1761233329.1232414,
+    "time_iso": "2025-10-23T15:28:49.123241Z",
+    "cpu_percent": 25.0,
+    "ram_percent": 8.9,
+    "gpu_vendor": "None",
+    "gpu_util_percent": null,
+    "gpu_mem_used_gb": null,
+    "gpu_mem_total_gb": null
+  },
+  {
+    "time": 1761233330.12363,
+    "time_iso": "2025-10-23T15:28:50.123630Z",
+    "cpu_percent": 25.3,
+    "ram_percent": 8.9,
+    "gpu_vendor": "None",
+    "gpu_util_percent": null,
+    "gpu_mem_used_gb": null,
+    "gpu_mem_total_gb": null
+  },
+  {
+    "time": 1761233331.1240163,
+    "time_iso": "2025-10-23T15:28:51.124016Z",
+    "cpu_percent": 25.0,
+    "ram_percent": 8.9,
+    "gpu_vendor": "None",
+    "gpu_util_percent": null,
+    "gpu_mem_used_gb": null,
+    "gpu_mem_total_gb": null
+  },
+  {
+    "time": 1761233332.1244612,
+    "time_iso": "2025-10-23T15:28:52.124461Z",
+    "cpu_percent": 25.2,
+    "ram_percent": 8.9,
+    "gpu_vendor": "None",
+    "gpu_util_percent": null,
+    "gpu_mem_used_gb": null,
+    "gpu_mem_total_gb": null
+  },
+  {
+    "time": 1761233333.124859,
+    "time_iso": "2025-10-23T15:28:53.124859Z",
+    "cpu_percent": 25.1,
+    "ram_percent": 8.9,
+    "gpu_vendor": "None",
+    "gpu_util_percent": null,
+    "gpu_mem_used_gb": null,
+    "gpu_mem_total_gb": null
+  },
+  {
+    "time": 1761233334.1252677,
+    "time_iso": "2025-10-23T15:28:54.125268Z",
+    "cpu_percent": 25.2,
+    "ram_percent": 8.9,
+    "gpu_vendor": "None",
+    "gpu_util_percent": null,
+    "gpu_mem_used_gb": null,
+    "gpu_mem_total_gb": null
+  },
+  {
+    "time": 1761233335.1256528,
+    "time_iso": "2025-10-23T15:28:55.125653Z",
+    "cpu_percent": 25.0,
+    "ram_percent": 8.8,
+    "gpu_vendor": "None",
+    "gpu_util_percent": null,
+    "gpu_mem_used_gb": null,
+    "gpu_mem_total_gb": null
+  },
+  {
+    "time": 1761233336.1260533,
+    "time_iso": "2025-10-23T15:28:56.126053Z",
+    "cpu_percent": 25.3,
+    "ram_percent": 8.8,
+    "gpu_vendor": "None",
+    "gpu_util_percent": null,
+    "gpu_mem_used_gb": null,
+    "gpu_mem_total_gb": null
+  },
+  {
+    "time": 1761233337.1265182,
+    "time_iso": "2025-10-23T15:28:57.126518Z",
+    "cpu_percent": 25.2,
+    "ram_percent": 8.8,
+    "gpu_vendor": "None",
+    "gpu_util_percent": null,
+    "gpu_mem_used_gb": null,
+    "gpu_mem_total_gb": null
+  },
+  {
+    "time": 1761233338.1268892,
+    "time_iso": "2025-10-23T15:28:58.126889Z",
+    "cpu_percent": 25.2,
+    "ram_percent": 8.8,
+    "gpu_vendor": "None",
+    "gpu_util_percent": null,
+    "gpu_mem_used_gb": null,
+    "gpu_mem_total_gb": null
+  },
+  {
+    "time": 1761233339.12727,
+    "time_iso": "2025-10-23T15:28:59.127270Z",
+    "cpu_percent": 25.1,
+    "ram_percent": 8.7,
+    "gpu_vendor": "None",
+    "gpu_util_percent": null,
+    "gpu_mem_used_gb": null,
+    "gpu_mem_total_gb": null
+  },
+  {
+    "time": 1761233340.127642,
+    "time_iso": "2025-10-23T15:29:00.127642Z",
+    "cpu_percent": 25.0,
+    "ram_percent": 8.7,
+    "gpu_vendor": "None",
+    "gpu_util_percent": null,
+    "gpu_mem_used_gb": null,
+    "gpu_mem_total_gb": null
+  },
+  {
+    "time": 1761233341.1280434,
+    "time_iso": "2025-10-23T15:29:01.128043Z",
+    "cpu_percent": 25.1,
+    "ram_percent": 8.7,
+    "gpu_vendor": "None",
+    "gpu_util_percent": null,
+    "gpu_mem_used_gb": null,
+    "gpu_mem_total_gb": null
+  },
+  {
+    "time": 1761233342.1284833,
+    "time_iso": "2025-10-23T15:29:02.128483Z",
+    "cpu_percent": 25.3,
+    "ram_percent": 8.7,
+    "gpu_vendor": "None",
+    "gpu_util_percent": null,
+    "gpu_mem_used_gb": null,
+    "gpu_mem_total_gb": null
+  },
+  {
+    "time": 1761233343.12888,
+    "time_iso": "2025-10-23T15:29:03.128880Z",
+    "cpu_percent": 25.2,
+    "ram_percent": 8.7,
+    "gpu_vendor": "None",
+    "gpu_util_percent": null,
+    "gpu_mem_used_gb": null,
+    "gpu_mem_total_gb": null
+  },
+  {
+    "time": 1761233344.1292453,
+    "time_iso": "2025-10-23T15:29:04.129245Z",
+    "cpu_percent": 25.7,
+    "ram_percent": 8.7,
+    "gpu_vendor": "None",
+    "gpu_util_percent": null,
+    "gpu_mem_used_gb": null,
+    "gpu_mem_total_gb": null
+  },
+  {
+    "time": 1761233345.129597,
+    "time_iso": "2025-10-23T15:29:05.129597Z",
+    "cpu_percent": 25.3,
+    "ram_percent": 8.7,
+    "gpu_vendor": "None",
+    "gpu_util_percent": null,
+    "gpu_mem_used_gb": null,
+    "gpu_mem_total_gb": null
+  },
+  {
+    "time": 1761233346.12999,
+    "time_iso": "2025-10-23T15:29:06.129990Z",
+    "cpu_percent": 25.2,
+    "ram_percent": 8.7,
+    "gpu_vendor": "None",
+    "gpu_util_percent": null,
+    "gpu_mem_used_gb": null,
+    "gpu_mem_total_gb": null
+  },
+  {
+    "time": 1761233347.1304352,
+    "time_iso": "2025-10-23T15:29:07.130435Z",
+    "cpu_percent": 25.0,
+    "ram_percent": 8.7,
+    "gpu_vendor": "None",
+    "gpu_util_percent": null,
+    "gpu_mem_used_gb": null,
+    "gpu_mem_total_gb": null
+  },
+  {
+    "time": 1761233348.130832,
+    "time_iso": "2025-10-23T15:29:08.130832Z",
+    "cpu_percent": 25.2,
+    "ram_percent": 8.7,
+    "gpu_vendor": "None",
+    "gpu_util_percent": null,
+    "gpu_mem_used_gb": null,
+    "gpu_mem_total_gb": null
+  },
+  {
+    "time": 1761233349.1312358,
+    "time_iso": "2025-10-23T15:29:09.131236Z",
+    "cpu_percent": 25.0,
+    "ram_percent": 8.4,
+    "gpu_vendor": "None",
+    "gpu_util_percent": null,
+    "gpu_mem_used_gb": null,
+    "gpu_mem_total_gb": null
+  }
+]

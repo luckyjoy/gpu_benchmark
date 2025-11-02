@@ -1,0 +1,1 @@
+[{"values":["OS=ubuntu-latest"],"name":"Runner"},{"values":["Available=False"],"name":"CUDA"},{"values":["GPU Count=0"],"name":"OpenCL"},{"values":["Cores=4"],"name":"CPU"}]
