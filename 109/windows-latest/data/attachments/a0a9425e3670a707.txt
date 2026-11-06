@@ -1,0 +1,3 @@
+[INFO] Telemetry thread finished for test_cnn_forward_throughput (1 samples collected).
+[INFO] Saved telemetry data to allure-results\manual\telemetry_test_cnn_forward_throughput.json
+[INFO] Saved telemetry plot to allure-results\manual\telemetry_test_cnn_forward_throughput.png. This PNG should be attached to the Allure report.

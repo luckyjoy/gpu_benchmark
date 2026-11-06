@@ -1,0 +1,1 @@
+[{"values":["OS=ubuntu-latest"],"name":"Runner"},{"values":["Model(s)=None"],"name":"GPU"},{"values":["Available=False"],"name":"CUDA"},{"values":["GPU Count=0"],"name":"OpenCL"},{"values":["Threads=4"],"name":"CPU"},{"values":["Total=15.6 GB"],"name":"Memory"}]

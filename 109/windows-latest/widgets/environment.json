@@ -1,0 +1,1 @@
+[{"values":["OS=windows-latest"],"name":"Runner"},{"values":["Model(s)=None"],"name":"GPU"},{"values":["Available=False"],"name":"CUDA"},{"values":["GPU Count=0"],"name":"OpenCL"},{"values":["Threads=4"],"name":"CPU"},{"values":["Total=16 GB"],"name":"Memory"}]

@@ -1,0 +1,55 @@
+<html><head><title>Allure Reports History</title>
+<script src='https://cdn.jsdelivr.net/npm/chart.js'></script>
+<style>
+body{font-family:sans-serif;margin:20px;}
+ul{list-style:none;padding:0;}
+li{margin:6px 0;}
+a{text-decoration:none;color:#0366d6;}
+a:hover{text-decoration:underline;}
+#chart-container {
+  max-width: 600px;
+  max-height: 300px;
+  margin: 0;
+}
+</style></head><body>
+<h1>🤖 GPU Benchmarks CI/CD Build History</h1>
+<h2>🧩 Latest Allure Reports</h2><hr><ul>
+<li><strong><a href='latest/ubuntu-latest/'>Latest Report (ubuntu-latest)</a></strong> - Last run: Fri Nov 06 08:42:08 PDT 2026</li>
+<li><strong><a href='latest/windows-latest/'>Latest Report (windows-latest)</a></strong> - Last run: Fri Nov 06 08:42:10 PDT 2026</li>
+</ul><hr><h2>📊 Report History & Trends (Times in PDT)</h2>
+<ul>
+<li><strong>Build #109</strong> (Run: Fri Nov 06 08:42:08 PDT 2026) - <a href='109/ubuntu-latest/'>Ubuntu</a> / <a href='109/windows-latest/'>Windows</a></li>
+</ul>
+<div id='chart-container'>
+<canvas id='trendChart'></canvas>
+</div>
+<script>
+const ctx = document.getElementById('trendChart').getContext('2d');
+new Chart(ctx, {
+  type: 'line',
+  data: {
+    labels: ['109'],
+    datasets: [
+      {label: 'PASS', data: [43], borderColor: 'green', fill: false},
+      {label: 'FAIL', data: [1], borderColor: 'red', fill: false},
+      {label: 'UNSTABLE', data: [0], borderColor: 'orange', fill: false}
+    ]
+  },
+  options: { 
+    responsive: true, 
+    maintainAspectRatio: false, 
+    plugins: { legend: { position: 'top' } }, 
+    scales: { 
+      y: { 
+        beginAtZero: true, 
+        stepSize: 1,
+        title: { display: true, text: 'Total Number of Tests' }
+      },
+      x: {
+        title: { display: true, text: 'Build Number' }
+      }
+    } 
+  }
+});
+</script>
+<hr><p><em>Generated automatically on Fri Nov  6 08:42:10 PST 2026</em></p></body></html>

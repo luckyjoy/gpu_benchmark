@@ -1,0 +1,3 @@
+[INFO] Telemetry thread finished for test_memory_allocation (1 samples collected).
+[INFO] Saved telemetry data to allure-results\manual\telemetry_test_memory_allocation.json
+[INFO] Saved telemetry plot to allure-results\manual\telemetry_test_memory_allocation.png. This PNG should be attached to the Allure report.
