@@ -44,7 +44,7 @@ The **`deploy_gpu_workflow.py`** script manages the final deployment to a Kubern
 ---
 
 ## 💡 Project Overview  
-This framework implements **GPU/CPU performance benchmarking** using `PyTorch`, `TensorFlow`, `Pytest`, `Pytest-benchmark`, and leveraging advanced CI/CD with Kubernetes & Docker.
+This framework implements **GPU/CPU performance benchmarking** for PyTorch and TensorFlow models using pytest and pytest-benchmark. Benchmark execution is fully automated and orchestrated across Docker and Kubernetes via CI/CD pipelines
 It automatically detects available accelerators, measures inference throughput, GPU/CPU utilization, I/O, memory usage, etc., and produces **interactive Allure reports** for analysis.
 
 
